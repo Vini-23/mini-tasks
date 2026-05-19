@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "title": "Beba água",
+      "type": "lembrete",
+      "schedule": {
+        "interval_minutes": 60,
+        "start": "09:00",
+        "end": "18:00",
+        "days": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ]
+      },
+      "last_run": "2026-05-17T11:16:11.072695",
+      "active": true
+    },
+    {
+        "id": 1,
+        "title": "Rever documentação do João",
+        "type": "tarefa",
+        "schedule": {
+          "interval_minutes": 60,
+          "start": "09:00",
+          "end": "18:00",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ]
+        },
+        "last_run": "2026-05-17T11:16:11.072695",
+        "active": true
+      }
+]
